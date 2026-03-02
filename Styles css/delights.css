@@ -1,0 +1,251 @@
+.delight-section {
+    background-color: #1a1a1a;
+}
+
+.delight-section-title {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.chocolate-img-parent {
+    object-fit: cover;
+}
+
+.chocolate-delight-img {
+    width: 400px;
+    height: 240px;
+    padding: 0;
+    padding-bottom: 20px;
+    object-fit: cover;
+}
+
+.chocolate-delight {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+    object-fit: fill;
+    background-color: #181a1b;
+    margin-bottom: 50px;
+    -webkit-box-shadow: 0 0 50px black;
+    box-shadow: 0 0 50px black;
+}
+
+.chocolate-delight-title {
+    font-weight: bold;
+    padding-left: 30px;
+    color: white;
+}
+
+.chocolate-delight-paragraph {
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: auto;
+}
+
+.chocolate-all-texts {
+    display: flex;
+    position: absolute;
+    bottom: -160px;
+}
+
+.chocolate-control {
+    display: flex;
+    position: relative;
+}
+
+.chocolate-btn-p {
+  color: white;
+  margin-left: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+}
+
+.chocolate-btn {
+    color: white;
+    background-color: #008f3f;
+    padding: 10px;
+    margin-left: 250px;
+    margin-right: 20px;
+    text-decoration: none;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.chocolate-btn:hover {
+  background-color: lightgreen;
+}
+
+
+
+
+
+
+.all-delights {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pistache-img {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    padding-bottom: 20px;
+    object-fit: cover;
+}
+
+.pistache {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+    object-fit: fill;
+    background-color: #181a1b;
+    margin-bottom: 50px;
+    -webkit-box-shadow: 0 0 50px black;
+    box-shadow: 0 0 50px black;
+}
+
+.pistache-title {
+    font-weight: bold;
+    padding-left: 30px;
+    color: white;
+}
+
+.pistache-paragraph {
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: auto;
+}
+
+.pistache-all-texts {
+    display: flex;
+    position: absolute;
+    bottom: -161px;
+}
+
+.pistache-control {
+    display: flex;
+    position: relative;
+}
+
+.pistache-btn-p {
+  color: white;
+  margin-left: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+}
+
+.pistache-btn {
+    color: white;
+    background-color: #008f3f;
+    padding: 10px;
+    margin-left: 250px;
+    margin-right: 20px;
+    text-decoration: none;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.pistache-btn:hover {
+  background-color: lightgreen;
+}
+
+
+
+
+.oreo-img {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    padding-bottom: 20px;
+    object-fit: cover;
+}
+
+.oreo {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+    object-fit: fill;
+    background-color: #181a1b;
+    margin-bottom: 50px;
+    -webkit-box-shadow: 0 0 50px black;
+    box-shadow: 0 0 50px black;
+}
+
+.oreo-title {
+    font-weight: bold;
+    padding-left: 30px;
+    color: white;
+}
+
+.oreo-paragraph {
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: auto;
+}
+
+.oreo-all-texts {
+    display: flex;
+    position: absolute;
+    bottom: -140px;
+}
+
+.oreo-control {
+    display: flex;
+    position: relative;
+}
+
+.oreo-btn-p {
+  color: white;
+  margin-left: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+}
+
+.oreo-btn {
+    color: white;
+    background-color: #008f3f;
+    padding: 10px;
+    margin-left: 250px;
+    margin-right: 20px;
+    text-decoration: none;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.oreo-btn:hover {
+  background-color: lightgreen;
+}
+
+.soon-parent {
+   text-align: center;
+}
+
+.sooning {
+    color: white;
+    font-size: 50px;
+    padding-bottom: 80px;
+}

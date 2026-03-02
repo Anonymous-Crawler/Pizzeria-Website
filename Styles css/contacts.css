@@ -1,0 +1,30 @@
+.info-main {
+    background-color: #1a1a1a;
+    padding: 100px;
+    color: white;
+}
+
+.info-title {
+    margin-bottom: 70px;
+    font-size: 40px;
+}
+
+.info-ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.info-link {
+    text-decoration: none;
+    color: white;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+
+.info-paragraph {
+  font-size: 30px;
+}
+
+.info-paragraph-parent {
+    margin-bottom: 50px;
+}

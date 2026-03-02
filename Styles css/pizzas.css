@@ -1,0 +1,245 @@
+.pizza-section {
+    background-color: #1a1a1a;
+}
+
+.pizza-section-title {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.pizza-margherita-img {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    padding-bottom: 20px;
+    object-fit: cover;
+}
+
+.margherita-pizza {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+    object-fit: fill;
+    background-color: #181a1b;
+    margin-bottom: 50px;
+    -webkit-box-shadow: 0 0 50px black;
+    box-shadow: 0 0 50px black;
+}
+
+.pizza-margherita-title {
+    font-weight: bold;
+    padding-left: 30px;
+    color: white;
+}
+
+.pizza-margherita-paragraph {
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: auto;
+}
+
+.margherita-all-texts {
+    display: flex;
+    position: absolute;
+    bottom: -160px;
+}
+
+.margherita-control {
+    display: flex;
+    position: relative;
+}
+
+.margherita-btn-p {
+  color: white;
+  margin-left: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+}
+
+.margherita-btn {
+    color: white;
+    background-color: #008f3f;
+    padding: 10px;
+    margin-left: 250px;
+    margin-right: 20px;
+    text-decoration: none;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.margherita-btn:hover {
+  background-color: lightgreen;
+}
+
+
+
+
+
+
+.all-pizzas {
+    display: flex;
+    justify-content: space-around;
+}
+
+.pizza-pepperoni-img {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    padding-bottom: 20px;
+    object-fit: cover;
+}
+
+.pepperoni-pizza {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+    object-fit: fill;
+    background-color: #181a1b;
+    margin-bottom: 50px;
+    -webkit-box-shadow: 0 0 50px black;
+    box-shadow: 0 0 50px black;
+}
+
+.pizza-pepperoni-title {
+    font-weight: bold;
+    padding-left: 30px;
+    color: white;
+}
+
+.pizza-pepperoni-paragraph {
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: auto;
+}
+
+.pepperoni-all-texts {
+    display: flex;
+    position: absolute;
+    bottom: -103px;
+}
+
+.pepperoni-control {
+    display: flex;
+    position: relative;
+}
+
+.pepperoni-btn-p {
+  color: white;
+  margin-left: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+}
+
+.pepperoni-btn {
+    color: white;
+    background-color: #008f3f;
+    padding: 10px;
+    margin-left: 250px;
+    margin-right: 20px;
+    text-decoration: none;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.pepperoni-btn:hover {
+  background-color: lightgreen;
+}
+
+
+.pizza-tuna-img {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    padding-bottom: 20px;
+    object-fit: cover;
+}
+
+.tuna-pizza {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 500px;
+    border-radius: 15px;
+    object-fit: fill;
+    background-color: #181a1b;
+    margin-bottom: 50px;
+    -webkit-box-shadow: 0 0 50px black;
+    box-shadow: 0 0 50px black;
+}
+
+.pizza-tuna-title {
+    font-weight: bold;
+    padding-left: 30px;
+    color: white;
+}
+
+.pizza-tuna-paragraph {
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: auto;
+}
+
+.tuna-all-texts {
+    display: flex;
+    position: absolute;
+    bottom: -156px;
+}
+
+.tuna-control {
+    display: flex;
+    position: relative;
+}
+
+.tuna-btn-p {
+  color: white;
+  margin-left: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+}
+
+.tuna-btn {
+    color: white;
+    background-color: #008f3f;
+    padding: 10px;
+    margin-left: 250px;
+    margin-right: 20px;
+    text-decoration: none;
+    margin-bottom: 5px;
+    border-radius: 4px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.tuna-btn:hover {
+  background-color: lightgreen;
+}
+
+.soon-parent {
+   text-align: center;
+}
+
+.sooning {
+    color: white;
+    font-size: 50px;
+    padding-bottom: 80px;
+}
